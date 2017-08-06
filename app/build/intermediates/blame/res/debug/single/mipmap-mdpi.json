@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tumi/Desktop/projects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/tumi/Desktop/projects/JsonParser/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tumi/Desktop/projects/JsonParser/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/tumi/Desktop/projects/JsonParser/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

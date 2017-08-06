@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/tumi/.android/build-cache/9eb5c9a318e7d75ddb0007eb26019ec5471b93ab/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/tumi/.android/build-cache/4b3766c1f370979420b4a4ef9bc5ec6859fad357/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/tumi/.android/build-cache/4a00b4df14644b07b4f599f23d6d004ced6e686a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/tumi/.android/build-cache/be80f0f2623f1336b979a0f1e7116d753ba157c3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/tumi/.android/build-cache/a83980aff23783847ae507e7e2dfdc59e8e6cc73/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/tumi/.android/build-cache/25a476e29aa0f34fef8c61ea15e67be1b82f8664/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tumi/.android/build-cache/5cfca18b7bbfe0a142156994c672c88544a199ed/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tumi/.android/build-cache/73be7e3816681518d01a772bb7657f733c336eeb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/tumi/.android/build-cache/4183ecc8ae92bb60e53bb028ecaf2879b927a67a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tumi/.android/build-cache/6c13d926f707f23498c26acdf73f872d6a4e286b/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:13:9-40
+activity#planner.jsonparser.MainActivity
+ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:18:27-74
+activity#planner.jsonparser.ListView
+ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml:21:19-43
+uses-sdk
+INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/tumi/.android/build-cache/9eb5c9a318e7d75ddb0007eb26019ec5471b93ab/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/tumi/.android/build-cache/4b3766c1f370979420b4a4ef9bc5ec6859fad357/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/tumi/.android/build-cache/4a00b4df14644b07b4f599f23d6d004ced6e686a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/tumi/.android/build-cache/be80f0f2623f1336b979a0f1e7116d753ba157c3/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/tumi/.android/build-cache/a83980aff23783847ae507e7e2dfdc59e8e6cc73/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/tumi/.android/build-cache/25a476e29aa0f34fef8c61ea15e67be1b82f8664/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tumi/.android/build-cache/5cfca18b7bbfe0a142156994c672c88544a199ed/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tumi/.android/build-cache/73be7e3816681518d01a772bb7657f733c336eeb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/tumi/.android/build-cache/4183ecc8ae92bb60e53bb028ecaf2879b927a67a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/tumi/.android/build-cache/6c13d926f707f23498c26acdf73f872d6a4e286b/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/tumi/.android/build-cache/9eb5c9a318e7d75ddb0007eb26019ec5471b93ab/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tumi/Desktop/projects/JsonParser/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/tumi/.android/build-cache/9eb5c9a318e7d75ddb0007eb26019ec5471b93ab/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/tumi/.android/build-cache/4b3766c1f370979420b4a4ef9bc5ec6859fad357/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/tumi/.android/build-cache/4a00b4df14644b07b4f599f23d6d004ced6e686a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/tumi/.android/build-cache/be80f0f2623f1336b979a0f1e7116d753ba157c3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/tumi/.android/build-cache/a83980aff23783847ae507e7e2dfdc59e8e6cc73/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/tumi/.android/build-cache/25a476e29aa0f34fef8c61ea15e67be1b82f8664/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/tumi/.android/build-cache/5cfca18b7bbfe0a142156994c672c88544a199ed/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/tumi/.android/build-cache/73be7e3816681518d01a772bb7657f733c336eeb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/tumi/.android/build-cache/4183ecc8ae92bb60e53bb028ecaf2879b927a67a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/tumi/.android/build-cache/9eb5c9a318e7d75ddb0007eb26019ec5471b93ab/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/tumi/.android/build-cache/9eb5c9a318e7d75ddb0007eb26019ec5471b93ab/output/AndroidManifest.xml:26:9-47

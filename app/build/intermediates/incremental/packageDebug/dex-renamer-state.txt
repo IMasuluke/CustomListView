@@ -1,0 +1,7 @@
+#Sun Jul 09 17:55:56 SAST 2017
+base.0=/home/tumi/Desktop/projects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b5f68bb41039d4e8e45812da404971298d5d1974
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/tumi/Desktop/projects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4571cb13c6d17bdea06166b6c023355ddcae9fe3/classes.dex
+base.1=/home/tumi/Desktop/projects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4571cb13c6d17bdea06166b6c023355ddcae9fe3
+file.0=/home/tumi/Desktop/projects/JsonParser/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b5f68bb41039d4e8e45812da404971298d5d1974/classes.dex
