@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="planner.jsonparser.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHorizontal_bias="0.288"
+        app:layout_constraintVertical_bias="0.554"
+        android:id="@+id/textView"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="28dp"
+        android:layout_below="@+id/btnParse"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/btnGet"
+        android:layout_width="141dp"
+        android:layout_height="58dp"
+        android:text="Get Json"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="32dp"
+        android:onClick="getJson"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/btnParse" />
+
+    <Button
+        android:id="@+id/btnParse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="21dp"
+        android:layout_below="@+id/btnGet"
+        android:layout_alignParentStart="true"
+        android:onClick="Parse"
+        />
+
+</RelativeLayout>

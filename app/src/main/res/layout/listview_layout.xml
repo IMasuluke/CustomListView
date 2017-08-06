@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="7dp"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="224dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        android:layout_weight="0.61" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="223dp"
+        android:layout_margin="7dp"
+        android:layout_weight="0.56"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="227dp"
+            android:layout_height="34dp"
+            android:layout_margin="7dp"
+            android:text="Video Name"
+            android:textSize="25dp" />
+
+        <TextView
+            android:id="@+id/txtSize"
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:layout_margin="7dp"
+            android:text="Size"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/txtLecture"
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:layout_margin="7dp"
+            android:text="Lecturer"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/txtDesc"
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:layout_margin="7dp"
+            android:text="Descripition"
+            android:textSize="15dp"
+            android:layout_weight="0.17" />
+    </LinearLayout>
+</LinearLayout>
